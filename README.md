@@ -100,10 +100,19 @@
 
 ### E-commerce Chatbot images
 
+##### Title: E-commerce Chatbot
 ![Image 1](/E-commerce%20Chatbot%20Images/chatbot.png "E-commerce Chatbot")
+
+##### Title: Greetings
 ![Image 2](/E-commerce%20Chatbot%20Images/greetings.png "Greetings")
+
+##### Title: Conversation
 ![Image 3](/E-commerce%20Chatbot%20Images/conversation.png "Conversation")
+
+##### Title: Fallback Response
 ![Image 4](/E-commerce%20Chatbot%20Images/fallback-response.png "Fallback Response")
+
+##### Title: Farewell
 ![Image 5](/E-commerce%20Chatbot%20Images/farewells.png "Farewell")
 
 ### Contact Information for Assistance
