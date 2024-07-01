@@ -100,11 +100,20 @@
 
 ### E-commerce Chatbot images
 
-![Image 1](/E-commerce Chatbot Images/chatbot.png "E-commerce Chatbot")
-![Image 2](/E-commerce Chatbot Images/greetings.png "Greetings")
-![Image 3](/E-commerce Chatbot Images/conversation.png "Conversation")
-![Image 4](/E-commerce Chatbot Images/fallback-response.png "Fallback Response")
-![Image 5](/E-commerce Chatbot Images/farewells.png "Farewell")
+##### Title: E-commerce Chatbot
+![Image 1](/E-commerce%20Chatbot%20Images/chatbot.png "E-commerce Chatbot")
+
+##### Title: Greetings
+![Image 2](/E-commerce%20Chatbot%20Images/greetings.png "Greetings")
+
+##### Title: Conversation
+![Image 3](/E-commerce%20Chatbot%20Images/conversation.png "Conversation")
+
+##### Title: Fallback Response
+![Image 4](/E-commerce%20Chatbot%20Images/fallback-response.png "Fallback Response")
+
+##### Title: Farewell
+![Image 5](/E-commerce%20Chatbot%20Images/farewells.png "Farewell")
 
 ### Contact Information for Assistance
 
@@ -112,6 +121,5 @@ If you encounter any issues or need further assistance, please feel free to cont
 
 - **Name**: Gurjot Singh Aulakh
 - **Email**: [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
-- **Phone**: +47 973 87 540
 
 ---
