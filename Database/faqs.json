@@ -1,0 +1,11 @@
+{
+    "greetings": ["hello", "hi", "hey", "hei"],
+    "farewells": ["bye", "goodbye", "see you"],
+    "faqs": {
+        "what is your return policy": "Our return policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately, we can’t offer you a refund or exchange.",
+        "how can i track my order": "You can track your order by logging into your account and clicking on 'Track Order' in the order history section.",
+        "do you ship internationally": "Yes, we ship to over 100 countries worldwide. Shipping rates and delivery times vary depending on the destination.",
+        "what payment methods are accepted": "We accept Visa, MasterCard, PayPal, and American Express.",
+        "how can i contact customer support": "You can contact our customer support via email at support@example.com or call us at 1-800-123-4567."
+    }
+}
