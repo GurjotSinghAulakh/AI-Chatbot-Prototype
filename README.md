@@ -121,6 +121,5 @@ If you encounter any issues or need further assistance, please feel free to cont
 
 - **Name**: Gurjot Singh Aulakh
 - **Email**: [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
-- **Phone**: +47 973 87 540
 
 ---
