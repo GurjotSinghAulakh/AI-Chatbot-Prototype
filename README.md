@@ -86,6 +86,7 @@
 
    The server should start running at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
+   ![Image 1](/E-commerce%20Chatbot%20Images/server-logs.png "Server logs")
 ---
 
 #### Step 6: Test the Chatbot
@@ -101,19 +102,19 @@
 ### E-commerce Chatbot images
 
 ##### Title: E-commerce Chatbot
-![Image 1](/E-commerce%20Chatbot%20Images/chatbot.png "E-commerce Chatbot")
+![Image 2](/E-commerce%20Chatbot%20Images/chatbot.png "E-commerce Chatbot")
 
 ##### Title: Greetings
-![Image 2](/E-commerce%20Chatbot%20Images/greetings.png "Greetings")
+![Image 3](/E-commerce%20Chatbot%20Images/greetings.png "Greetings")
 
 ##### Title: Conversation
-![Image 3](/E-commerce%20Chatbot%20Images/conversation.png "Conversation")
+![Image 4](/E-commerce%20Chatbot%20Images/conversation.png "Conversation")
 
 ##### Title: Fallback Response
-![Image 4](/E-commerce%20Chatbot%20Images/fallback-response.png "Fallback Response")
+![Image 5](/E-commerce%20Chatbot%20Images/fallback-response.png "Fallback Response")
 
 ##### Title: Farewell
-![Image 5](/E-commerce%20Chatbot%20Images/farewells.png "Farewell")
+![Image 6](/E-commerce%20Chatbot%20Images/farewells.png "Farewell")
 
 ### Contact Information for Assistance
 
